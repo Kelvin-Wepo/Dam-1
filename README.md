@@ -1,4 +1,3 @@
-# Dam-1
 ## Project Description
 Website to showcase the functionality of a search box
 
